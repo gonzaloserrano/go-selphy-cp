@@ -34,6 +34,7 @@ import (
 	"fmt"
 	"image"
 	_ "image/jpeg"
+	_ "image/png"
 	"net"
 	"os"
 	"os/user"
